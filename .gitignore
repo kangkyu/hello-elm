@@ -1,1 +1,8 @@
+# elm make
 elm-stuff/
+
+# npm install
+node_modules/
+
+# brunch build
+public/
